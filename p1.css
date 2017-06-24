@@ -1,0 +1,17 @@
+
+h1{
+text-shadow: 2px 2px 5px chocolate;
+font-size:50px;
+color:chocolate;
+}
+p
+{
+letter-spacing: 1px;
+font-size:15px;
+} 
+img{
+    display: block;
+    margin: auto;
+}
+
+
